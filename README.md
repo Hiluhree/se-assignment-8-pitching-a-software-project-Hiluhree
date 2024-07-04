@@ -7,7 +7,7 @@ Answer the following questions based on your understanding of how to pitch a sof
 
 ## 1. Understanding the Audience:
  ### Why is it important to understand your audience when pitching a software project? How can you tailor your pitch to different types of stakeholders (e.g., investors, technical team, customers)?
-    - Understanding your audience is crucial because different stakeholders have varied interests, concerns, and levels of technical expertise. Tailoring your pitch ensures that each audience receives the information that is most relevant and compelling to them.
+   - Understanding your audience is crucial because different stakeholders have varied interests, concerns, and levels of technical expertise. Tailoring your pitch ensures that each audience receives the information that is most relevant and compelling to them.
     - Investors: Focus on the financial potential, market opportunity, business model, and ROI (return on investment). Highlight growth prospects and competitive advantages.
     - Technical Team: Emphasize the technical aspects, such as architecture, technology stack, scalability, and feasibility. Address potential challenges and the innovative nature of the technology.
     - Customers: Concentrate on the problem your software solves, the benefits it offers, and how it improves their lives or businesses. Use customer-centric language and real-life use cases.
